@@ -22,4 +22,4 @@ Make Sure that you've Truffle and Ganache installed
 
 6.4 Manually connect Metamask to the cast vote page by clicking on the Not Connected option which is shown left side of your address and connect it to the website.
 
-6.5 Once it shows connected, you can successfully cast your vote
+6.5 Once it shows connected, you can successfully cast your vote# Dvoting_system
