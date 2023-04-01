@@ -2,7 +2,7 @@ Decentralized Voting System
 
 Make Sure that you've Truffle and Ganache installed
 
-1. Clone the repo: git clone https://github.com/shifaj22/Blockchain_Voting.git
+1. Clone the repo: git clone https://github.com/shifaj22/Dvoting_system.git
 
 2. Navigate to the folder: cd Blockchain_Voting
 
